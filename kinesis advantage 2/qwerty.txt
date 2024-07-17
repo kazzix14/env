@@ -1,0 +1,6 @@
+[bspace]>[f24]
+[delete]>[lalt]
+[rshift]>[delete]
+[lctrl]>[lwin]
+[end]>[delete]
+[caps]>[lctrl]
